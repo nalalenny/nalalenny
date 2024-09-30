@@ -1,5 +1,7 @@
 ## Hi there 👋
 - Student at the University of Bern and Fribourg (MSc in Bioinformatics and Computational Biology)
+- Bachelor's degree in Biomedical Sciences at University of Fribourg
+- I am currently in the first semester of the Masters program. 
 
 
 <!--
