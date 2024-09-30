@@ -1,4 +1,6 @@
 ## Hi there 👋
+- Student at the University of Bern and Fribourg (MSc in Bioinformatics and Computational Biology)
+
 
 <!--
 **nalalenny/nalalenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
