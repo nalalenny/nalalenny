@@ -1,7 +1,7 @@
 ## Hi there 👋
-- Student at the University of Bern and Fribourg (MSc in Bioinformatics and Computational Biology)
+- Student at the University of Applied Sciences of the Grisons.
 - Bachelor's degree in Biomedical Sciences at University of Fribourg
-- I am currently in the first semester of the Masters program. 
+- I am currently in the first semester of the Masters program in UX Design. 
 
 
 <!--
